@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['account_number', 'amount', 'bank_name', 'cheque_number', 'company_name', 'customer_name', 'date', 'ifsc_code']
